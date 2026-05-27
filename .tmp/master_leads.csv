@@ -1,0 +1,74 @@
+first_name,last_name,email,company,suburb,email_confidence
+Brendan,Warner,brendan@rhm.com.au,Raine & Horne Mosman,Mosman,inferred
+Shann,Warner,shann@rhm.com.au,Raine & Horne Mosman,Mosman,inferred
+Peter,Chauncy,peterchauncy@mcgrath.com.au,McGrath Estate Agents,Crows Nest,confirmed
+Mark,Jackson,neutralbay.info@belleproperty.com,Belle Property Neutral Bay,Neutral Bay,general
+Rob,Paridis,doublebay@lsre.com.au,Laing+Simmons Double Bay,Double Bay,general
+Michael,Clarke,michael@clarkeandhumel.com.au,Clarke & Humel,Manly,inferred
+Cherie,Humel,cherie@clarkeandhumel.com.au,Clarke & Humel,Manly,inferred
+Brendan,Pomponio,brendan.pomponio@belleproperty.com,Belle Property Dee Why,Dee Why,confirmed
+Matthew,Hayson,matthew@ch.com.au,Cobden Hayson,Balmain,inferred
+Danny,Cobden,danny@ch.com.au,Cobden Hayson,Balmain,inferred
+Michael,Stavrianos,info@localagencyco.com,Local Agency Co,Paddington,general
+Rosio,Flynn,office@bbiagency.com.au,Bondi Beach International Agency,Bondi Beach,general
+Scott,Chadwick,scott@chadwickrealestate.com.au,Chadwick Real Estate,Turramurra,inferred
+Raincy,Wen,info@inndeavor.com,Inndeavor Group,Developer (multi-region),general
+Jin,Lin,info@aqualand.com.au,Aqualand,Developer (multi-region),general
+Mandy,Yang,info@legendproperty.com.au,Legend,Investment (multi-region),general
+Peter,Kelaher,enquiries@pkproperty.com.au,PK Property,Eastern Suburbs (PK Property),general
+Matthew,Shalhoub,accounts@underthehammer.net.au,Under The Hammer,Multi-region,general
+Daniel,Gavan,hello@gavanproperty.com.au,Gavan,Multi-region,general
+Trish,Ficarra,trish@richandoliva.com.au,Rich and Oliva Real Estate,Inner West,confirmed
+Andrew,Bova,contact@exclusivere.com.au,Exclusive,Multi-region,general
+James,Smyth,james@smythestateagents.com.au,Smyth Estate Agents,Multi-region,confirmed
+Richie,Hrovat,dulwichhill.nsw@raywhite.com,Ray White Marrickville,Multi-region (Ray White),general
+Nick,Voegt,admin@smashpropertyinvesting.com.au,Smash,Multi-region,general
+Tracy,Yap,tracy@tracyyap.com.au,Tracy Yap,Upper North Shore (Epping/Eastwood),confirmed
+David,Skapinker,davids@cohenhandler.com.au,Cohen Handler,Buyers agency (national),confirmed
+Ruben,Laubscher,team@searchproperty.com.au,Search Property,Multi-region,general
+Brenden,Purcell,reception@purcellproperty.com.au,Purcell,Multi-region,general
+Prince,Kochhar,info@investorclinic.com.au,Investor Clinic Buyers Agency,Buyers agent (national),general
+Ben,Cohen,ben@goldmanbros.com.au,Goldman Bros,Multi-region,confirmed
+Tom,McDonald,info@springtree.com.au,Springtree,Multi-region,general
+Von,Slater,info@serenitas.com.au,Serenitas,Retirement (national),general
+Matthew,Matthews,matthew.matthews@resbymirvac.com,Mirvac,Developer (national),confirmed
+Bianca,Anton,info@alliancecorp.com.au,AllianceCorp,Investment (national),general
+Gabriel,Sarajinsky,hello@homehost.com.au,HomeHost,Short-term rental (multi-region),general
+Darren,Leach,info@jdhrealestate.com.au,JDH,Northern Beaches (Allambie Heights),general
+Kellie,Adamson,info@buyjameskellie.com.au,JamesKellie,Buyers agent (national),general
+Magdalena,Tsonev,magdalena@stratabee.com.au,StrataBee,Strata mgmt (multi-region),confirmed
+Ailinh,Ginh,ailinh@focusbuyersagent.com.au,Focus,Buyers agent (national),confirmed
+Matthew,Callaghan,matthew@mattcallaghanproperty.com.au,Matt Callaghan,Sutherland Shire (Cronulla/Caringbah),confirmed
+Grace,Wu,info@bridgestoneprojects.com.au,Bridgestone,Multi-region developer,general
+Daniel,Tan,info@hordernproperties.com.au,Hordern Properties,Multi-region,general
+Jack,Zheng,info@capstonerealty.com.au,Capstone,Multi-region,general
+Karl,Mifsud,info@geonet.properties,Geonet,Multi-region,general
+Suraj,Thapa,sales@infiniterealty.com.au,Infinite,Multi-region,general
+Leon,Jacques,hello@aurumadvisory.com.au,Aurum,Investment advisory,general
+Shiraz,Manoukian,shiraz@sohoproperty.com.au,Soho,Property platform (national),confirmed
+Emma,Thomson,info@clarkeandhumel.com.au,Clarke & Humel,Northern Beaches (Manly),general
+Mary,Chung,hello@koraproperty.com.au,Kora Property,Multi-region,general
+Anna,Mildon,reservations@guestrealty.co,Guest,Multi-region,general
+David,Kennedy,rentals@burkeproperty.com.au,Burke,Multi-region,general
+Merri,Yustina,vishal@primeestate.com.au,Prime Estate Australia,Multi-region,general
+Soumen,Mondal,info@mlina.com.au,MLINA,Property advisory,general
+Emmanuel,Michael,info@investormate.com.au,InvestorMate,Investment (national),general
+Sean,Massoudi,info@primerealtor.com.au,Australian Prime Realtor,Multi-region,general
+Leo,Foo,leo.foo@commonrealty.com.au,Common,Multi-region,confirmed
+Reuben,Mak,reuben.mak@commonrealty.com.au,Common,Multi-region,confirmed
+Mark,Cadry,mark@buyeast.com.au,BuyEast,Eastern Suburbs (BuyEast),confirmed
+Yida,Wu,info@dentown.com.au,DENTOWN,Investment (multi-region),general
+Dean,Jarman,dean.j@raywhite.com,Ray White,Eastern Suburbs (Centennial Park),confirmed
+Katherine,Manettas,admin@niketi.com.au,NIKETI,Multi-region,general
+Manish,Ajmera,info@bluewaterproperty.com.au,Bluewater,Multi-region,general
+Tennille,Mugridge,tennille@empirepropertyco.com.au,Home Specialist,Multi-region,confirmed
+Will,Hosking,enquiry@pmcproperty.com.au,PMC,Multi-region,general
+Chris,Brown,chris@newvisionre.com.au,New Vision,Multi-region,confirmed
+Andrew,Cary,andrew.c@raywhite.com,Ray White,Eastern Suburbs (Centennial Park),confirmed
+Andrew,Brien,mail@doughertyproperty.com.au,Dougherty,Multi-region,general
+Suman,Limbu,info@reyproperties.com.au,REY,Multi-region,general
+Hellio,Dias,hellio@richandoliva.com.au,Rich and Oliva Real Estate,Inner West,confirmed
+Jason,Simoes,jason@xsproperty.com.au,XS,Multi-region,confirmed
+Ben,Carrington,hello@compoundproperty.com.au,Compound Property,Investment (national),general
+Danny,Yap,danny@tracyyap.com.au,Tracy Yap,Upper North Shore (Epping/Eastwood),confirmed
+George,Massouridis,enquiries@propertynavigators.com.au,Property,Multi-region,general

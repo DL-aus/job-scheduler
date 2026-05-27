@@ -1,0 +1,41 @@
+first_name,last_name,email,company,suburb,office_address,email_confidence
+Brendan,Warner,brendan@rhm.com.au,Raine & Horne Mosman,Mosman,MISSING,inferred
+Shann,Warner,shann@rhm.com.au,Raine & Horne Mosman,Mosman,MISSING,inferred
+Peter,Chauncy,peterchauncy@mcgrath.com.au,McGrath Estate Agents,Crows Nest,"Shop 1A, 29 Holtermann Street, Crows Nest NSW 2065",confirmed
+Matthew,Smythe,MISSING,Belle Property Mosman,Mosman,MISSING,missing
+Mark,Jackson,neutralbay.info@belleproperty.com,Belle Property Neutral Bay,Neutral Bay,"4/27 Grosvenor Street, Neutral Bay NSW 2089",general
+David,Benjafield,MISSING,Belle Property Mosman,Mosman,MISSING,missing
+Peter,Horsnell,MISSING,Ryder Realty,Mosman,MISSING,missing
+Marize,Bellomo,MISSING,Stone Real Estate Mosman,Mosman,MISSING,missing
+Ashley,Bierman,MISSING,Ray White Double Bay,Double Bay,MISSING,missing
+Elliot,Placks,MISSING,Ray White Double Bay,Double Bay,MISSING,missing
+Michael,Dunn,MISSING,Richardson & Wrench Double Bay,Double Bay,MISSING,missing
+Peter,Starr,MISSING,Belle Property Double Bay,Double Bay,MISSING,missing
+Alain,Waitsman,MISSING,Belle Property Double Bay,Double Bay,MISSING,missing
+Rob,Paridis,doublebay@lsre.com.au,Laing+Simmons Double Bay,Double Bay,"373 New South Head Road, Double Bay NSW 2028",general
+Michael,Clarke,michael@clarkeandhumel.com.au,Clarke & Humel,Manly,"L1/49 North Steyne, Manly NSW 2095",inferred
+Cherie,Humel,cherie@clarkeandhumel.com.au,Clarke & Humel,Manly,"L1/49 North Steyne, Manly NSW 2095",inferred
+Steve,Thomas,MISSING,Belle Property Manly,Manly,"15 Sydney Road, Manly NSW 2095",missing
+Brendan,Pomponio,brendan.pomponio@belleproperty.com,Belle Property Dee Why,Dee Why,"Shop 1, 12 Howard Avenue, Dee Why NSW 2099",confirmed
+Scott,Robertson,MISSING,Balmain Realty,Rozelle,"35 Terry Street, Rozelle NSW 2039",missing
+Matthew,Hayson,matthew@ch.com.au,Cobden Hayson,Balmain,"500 Darling Street, Balmain NSW 2041",inferred
+Danny,Cobden,danny@ch.com.au,Cobden Hayson,Balmain,"500 Darling Street, Balmain NSW 2041",inferred
+Monique,Dower,MISSING,Belle Property Balmain,Balmain,MISSING,missing
+Lynsey,Kemp,MISSING,Belle Property Balmain,Balmain,MISSING,missing
+Joseph,Fairchild,MISSING,McGrath Surry Hills,Surry Hills,MISSING,missing
+Ted,Pye,MISSING,Belle Property Surry Hills,Surry Hills,MISSING,missing
+James,Perlowski,MISSING,Belle Property Surry Hills,Surry Hills,MISSING,missing
+Michael,Stavrianos,info@localagencyco.com,Local Agency Co,Paddington,MISSING,general
+Daniel,Gillespie,MISSING,Belle Property Bondi Junction,Bondi Junction,MISSING,missing
+Edward,Brown,MISSING,Belle Property Bondi Junction,Bondi Junction,MISSING,missing
+Troy,Malcolm,MISSING,McGrath Coogee,Coogee,"270 Clovelly Road, Coogee NSW 2034",missing
+Rosio,Flynn,office@bbiagency.com.au,Bondi Beach International Agency,Bondi Beach,"7/308 Bondi Road, Bondi NSW 2026",general
+Joe,Akle,MISSING,Stone Real Estate Neutral Bay,Neutral Bay,"Suite 5, 40 Yeo Street, Neutral Bay NSW 2089",missing
+Matthew,Smythe,MISSING,Belle Property Neutral Bay,Neutral Bay,"4/27 Grosvenor Street, Neutral Bay NSW 2089",missing
+Scott,Chadwick,scott@chadwickrealestate.com.au,Chadwick Real Estate,Turramurra,"1-3 Rohini Street, Turramurra NSW 2074",inferred
+Harry,Psaradellis,MISSING,Ray White Inner West,Newtown,"168 Missenden Rd, Newtown NSW 2042",missing
+Shane,Vincent,MISSING,Belle Property Randwick,Randwick,"Shop 1, 25-31 Perouse Road, Randwick NSW 2031",missing
+Simon,Harrison,MISSING,Belle Property North Shore,Lane Cove,MISSING,missing
+James,Bennett,MISSING,Belle Property North Shore,Lane Cove,MISSING,missing
+Ramsy,Batshon,MISSING,Belle Property North Shore,Lane Cove,MISSING,missing
+Patrick,Lang,MISSING,Belle Property North Shore,Lane Cove,MISSING,missing

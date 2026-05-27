@@ -1,0 +1,47 @@
+name: Daily Outreach
+
+on:
+  schedule:
+    - cron: '0 23 * * *'  # 9am AEST (UTC+10)
+  workflow_dispatch:       # allows manual trigger from GitHub UI
+
+jobs:
+  send-emails:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install python-dotenv
+
+      - name: Create .env from secrets
+        run: |
+          echo "GMAIL_ADDRESS=${{ secrets.GMAIL_ADDRESS }}" >> .env
+          echo "GMAIL_APP_PASSWORD=${{ secrets.GMAIL_APP_PASSWORD }}" >> .env
+          echo "REPLY_TO=" >> .env
+          echo "SENDER_NAME=${{ secrets.SENDER_NAME }}" >> .env
+          echo "SENDER_PHONE=${{ secrets.SENDER_PHONE }}" >> .env
+          echo "SENDER_BUSINESS=${{ secrets.SENDER_BUSINESS }}" >> .env
+
+      - name: Send outreach emails
+        run: python3 tools/bulk_send_emails.py --file .tmp/master_leads.csv
+
+      - name: Send follow-up emails
+        run: python3 tools/send_followup.py
+
+      - name: Save email log back to repo
+        run: |
+          git config user.name "GEM Outreach Bot"
+          git config user.email "admin@gemoutdoor.net"
+          git add .tmp/email_log.csv
+          git diff --staged --quiet || git commit -m "Update email log $(date +%Y-%m-%d)"
+          git push

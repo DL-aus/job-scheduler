@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.tmp/contacts_raw.csv
+.tmp/contacts_with_emails.csv
