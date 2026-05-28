@@ -25,11 +25,9 @@ SUBJECT_TEMPLATE = "GEM Outdoor X {company}"
 
 BODY_TEMPLATE = """Hi {first_name},
 
-I hope you're well. My name is Will, and I'm the owner of GEM Outdoor, a Garden & Exterior Maintenance company based in Sydney.
+Most properties hit the market with a garden that looks like it's been on a six-month holiday.
 
-I came across {company} and wanted to reach out personally — I think there's a natural fit between what we do and what you need when getting a property ready for market.
-
-First impressions start at the kerb, and we help vendors make sure theirs counts. Rather than coordinating multiple trades in the lead-up to a campaign, we handle everything in one visit:
+My name's Will Nicholls and I run GEM Outdoor. We go in before the campaign and fix that. Rather than coordinating multiple trades, we handle everything in one visit:
 
 • Garden tidy-ups — mowing, edging, hedge trimming, and general cleanup
 • Pressure washing — driveways, paths, fences, and outdoor surfaces
@@ -38,9 +36,9 @@ First impressions start at the kerb, and we help vendors make sure theirs counts
 
 One team, one booking, one less thing on your plate.
 
-I'd love to connect for a quick call or send through some before-and-after examples of our recent work. Happy to work around your schedule.
+Reply to this email and I can give you a ring. We work all over the Eastern Suburbs so I'm happy to swing by for a chat.
 
-Thanks for reading, {first_name} — I look forward to hopefully working together.
+Thanks for reading, {first_name}
 
 Kind regards,
 Will Nicholls
