@@ -63,3 +63,4 @@ timestamp,email,first_name,company,suburb,status
 2026-05-28T00:05:38.170829,danny@ch.com.au,Danny,Cobden Hayson,Balmain,SENT
 2026-05-28T00:05:41.481390,info@localagencyco.com,Michael,Local Agency Co,Paddington,SENT
 2026-05-28T00:05:44.491491,office@bbiagency.com.au,Rosio,Bondi Beach International Agency,Bondi Beach,SENT
+2026-05-28T10:36:01.436254,test@example.com,Jane,Ray White,Mosman,DRY_RUN

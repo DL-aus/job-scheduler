@@ -36,7 +36,7 @@ My name's Will Nicholls and I run GEM Outdoor. We go in before the campaign and 
 
 One team, one booking, one less thing on your plate.
 
-Reply to this email and I can give you a ring. We work all over the Eastern Suburbs so I'm happy to swing by for a chat.
+If you're interested, reply to this email and I'm happy to give you a ring.
 
 Thanks for reading, {first_name}
 
