@@ -64,3 +64,13 @@ timestamp,email,first_name,company,suburb,status
 2026-05-28T00:05:41.481390,info@localagencyco.com,Michael,Local Agency Co,Paddington,SENT
 2026-05-28T00:05:44.491491,office@bbiagency.com.au,Rosio,Bondi Beach International Agency,Bondi Beach,SENT
 2026-05-28T10:36:01.436254,test@example.com,Jane,Ray White,Mosman,DRY_RUN
+2026-05-29T11:00:31.886991,scott@chadwickrealestate.com.au,Scott,Chadwick Real Estate,Turramurra,SENT
+2026-05-29T11:00:34.861518,info@inndeavor.com,Raincy,Inndeavor Group,Developer (multi-region),SENT
+2026-05-29T11:00:38.280006,info@aqualand.com.au,Jin,Aqualand,Developer (multi-region),SENT
+2026-05-29T11:00:41.250314,info@legendproperty.com.au,Mandy,Legend,Investment (multi-region),SENT
+2026-05-29T11:00:44.401590,enquiries@pkproperty.com.au,Peter,PK Property,Eastern Suburbs (PK Property),SENT
+2026-05-29T11:00:47.366802,accounts@underthehammer.net.au,Matthew,Under The Hammer,Multi-region,SENT
+2026-05-29T11:00:50.343654,hello@gavanproperty.com.au,Daniel,Gavan,Multi-region,SENT
+2026-05-29T11:00:53.226973,trish@richandoliva.com.au,Trish,Rich and Oliva Real Estate,Inner West,SENT
+2026-05-29T11:00:56.148676,contact@exclusivere.com.au,Andrew,Exclusive,Multi-region,SENT
+2026-05-29T11:00:59.225775,james@smythestateagents.com.au,James,Smyth Estate Agents,Multi-region,SENT
