@@ -84,3 +84,13 @@ timestamp,email,first_name,company,suburb,status
 2026-05-30T08:10:29.987638,ben@goldmanbros.com.au,Ben,Goldman Bros,Multi-region,SENT
 2026-05-30T08:10:33.066008,info@springtree.com.au,Tom,Springtree,Multi-region,SENT
 2026-05-30T08:10:36.124715,info@serenitas.com.au,Von,Serenitas,Retirement (national),SENT
+2026-05-31T09:38:41.196160,matthew.matthews@resbymirvac.com,Matthew,Mirvac,Developer (national),SENT
+2026-05-31T09:38:44.434075,info@alliancecorp.com.au,Bianca,AllianceCorp,Investment (national),SENT
+2026-05-31T09:38:47.596339,hello@homehost.com.au,Gabriel,HomeHost,Short-term rental (multi-region),SENT
+2026-05-31T09:38:51.342069,info@jdhrealestate.com.au,Darren,JDH,Northern Beaches (Allambie Heights),SENT
+2026-05-31T09:38:54.669018,info@buyjameskellie.com.au,Kellie,JamesKellie,Buyers agent (national),SENT
+2026-05-31T09:38:58.624402,magdalena@stratabee.com.au,Magdalena,StrataBee,Strata mgmt (multi-region),SENT
+2026-05-31T09:39:01.834213,ailinh@focusbuyersagent.com.au,Ailinh,Focus,Buyers agent (national),SENT
+2026-05-31T09:39:05.094293,matthew@mattcallaghanproperty.com.au,Matthew,Matt Callaghan,Sutherland Shire (Cronulla/Caringbah),SENT
+2026-05-31T09:39:08.208508,info@bridgestoneprojects.com.au,Grace,Bridgestone,Multi-region developer,SENT
+2026-05-31T09:39:11.384402,info@hordernproperties.com.au,Daniel,Hordern Properties,Multi-region,SENT
