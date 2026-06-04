@@ -136,3 +136,9 @@ timestamp,email,first_name,company,suburb,status
 2026-06-03T16:06:03.432647,danny@ch.com.au,Danny,Cobden Hayson,Balmain,FOLLOWUP_SENT
 2026-06-03T16:06:06.355270,info@localagencyco.com,Michael,Local Agency Co,Paddington,FOLLOWUP_SENT
 2026-06-03T16:06:09.077861,office@bbiagency.com.au,Rosio,Bondi Beach International Agency,Bondi Beach,FOLLOWUP_SENT
+2026-06-04T10:51:12.229704,enquiries@propertynavigators.com.au,George,Property,Multi-region,SENT
+2026-06-04T10:51:16.158751,scott@chadwickrealestate.com.au,Scott,Chadwick Real Estate,Turramurra,FOLLOWUP_SENT
+2026-06-04T10:51:19.519181,info@inndeavor.com,Raincy,Inndeavor Group,Developer (multi-region),FOLLOWUP_SENT
+2026-06-04T10:51:23.105945,info@aqualand.com.au,Jin,Aqualand,Developer (multi-region),FOLLOWUP_SENT
+2026-06-04T10:51:26.955027,info@legendproperty.com.au,Mandy,Legend,Investment (multi-region),FOLLOWUP_SENT
+2026-06-04T10:51:30.186014,enquiries@pkproperty.com.au,Peter,PK Property,Eastern Suburbs (PK Property),FOLLOWUP_SENT
