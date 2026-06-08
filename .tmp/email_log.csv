@@ -157,3 +157,8 @@ timestamp,email,first_name,company,suburb,status
 2026-06-07T10:10:28.549780,ben@goldmanbros.com.au,Ben,Goldman Bros,Multi-region,FOLLOWUP_SENT
 2026-06-07T10:10:31.536911,info@springtree.com.au,Tom,Springtree,Multi-region,FOLLOWUP_SENT
 2026-06-07T10:10:34.616538,info@serenitas.com.au,Von,Serenitas,Retirement (national),FOLLOWUP_SENT
+2026-06-08T14:37:03.568876,matthew.matthews@resbymirvac.com,Matthew,Mirvac,Developer (national),FOLLOWUP_SENT
+2026-06-08T14:37:06.878070,info@alliancecorp.com.au,Bianca,AllianceCorp,Investment (national),FOLLOWUP_SENT
+2026-06-08T14:37:09.797715,hello@homehost.com.au,Gabriel,HomeHost,Short-term rental (multi-region),FOLLOWUP_SENT
+2026-06-08T14:37:13.103400,info@jdhrealestate.com.au,Darren,JDH,Northern Beaches (Allambie Heights),FOLLOWUP_SENT
+2026-06-08T14:37:16.124541,info@buyjameskellie.com.au,Kellie,JamesKellie,Buyers agent (national),FOLLOWUP_SENT
