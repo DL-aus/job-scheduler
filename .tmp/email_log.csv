@@ -162,3 +162,8 @@ timestamp,email,first_name,company,suburb,status
 2026-06-08T14:37:09.797715,hello@homehost.com.au,Gabriel,HomeHost,Short-term rental (multi-region),FOLLOWUP_SENT
 2026-06-08T14:37:13.103400,info@jdhrealestate.com.au,Darren,JDH,Northern Beaches (Allambie Heights),FOLLOWUP_SENT
 2026-06-08T14:37:16.124541,info@buyjameskellie.com.au,Kellie,JamesKellie,Buyers agent (national),FOLLOWUP_SENT
+2026-06-09T10:48:33.508375,magdalena@stratabee.com.au,Magdalena,StrataBee,Strata mgmt (multi-region),FOLLOWUP_SENT
+2026-06-09T10:48:36.329057,ailinh@focusbuyersagent.com.au,Ailinh,Focus,Buyers agent (national),FOLLOWUP_SENT
+2026-06-09T10:48:39.333159,matthew@mattcallaghanproperty.com.au,Matthew,Matt Callaghan,Sutherland Shire (Cronulla/Caringbah),FOLLOWUP_SENT
+2026-06-09T10:48:43.094512,info@bridgestoneprojects.com.au,Grace,Bridgestone,Multi-region developer,FOLLOWUP_SENT
+2026-06-09T10:48:45.980185,info@hordernproperties.com.au,Daniel,Hordern Properties,Multi-region,FOLLOWUP_SENT
