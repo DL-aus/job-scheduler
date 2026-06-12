@@ -177,3 +177,8 @@ timestamp,email,first_name,company,suburb,status
 2026-06-11T12:57:15.651657,reservations@guestrealty.co,Anna,Guest,Multi-region,FOLLOWUP_SENT
 2026-06-11T12:57:18.698951,rentals@burkeproperty.com.au,David,Burke,Multi-region,FOLLOWUP_SENT
 2026-06-11T12:57:21.722340,vishal@primeestate.com.au,Merri,Prime Estate Australia,Multi-region,FOLLOWUP_SENT
+2026-06-12T12:01:30.278542,info@mlina.com.au,Soumen,MLINA,Property advisory,FOLLOWUP_SENT
+2026-06-12T12:01:33.126520,info@investormate.com.au,Emmanuel,InvestorMate,Investment (national),FOLLOWUP_SENT
+2026-06-12T12:01:35.954616,info@primerealtor.com.au,Sean,Australian Prime Realtor,Multi-region,FOLLOWUP_SENT
+2026-06-12T12:01:38.801175,leo.foo@commonrealty.com.au,Leo,Common,Multi-region,FOLLOWUP_SENT
+2026-06-12T12:01:41.581368,reuben.mak@commonrealty.com.au,Reuben,Common,Multi-region,FOLLOWUP_SENT
