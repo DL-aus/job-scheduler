@@ -182,3 +182,8 @@ timestamp,email,first_name,company,suburb,status
 2026-06-12T12:01:35.954616,info@primerealtor.com.au,Sean,Australian Prime Realtor,Multi-region,FOLLOWUP_SENT
 2026-06-12T12:01:38.801175,leo.foo@commonrealty.com.au,Leo,Common,Multi-region,FOLLOWUP_SENT
 2026-06-12T12:01:41.581368,reuben.mak@commonrealty.com.au,Reuben,Common,Multi-region,FOLLOWUP_SENT
+2026-06-13T10:08:05.815307,mark@buyeast.com.au,Mark,BuyEast,Eastern Suburbs (BuyEast),FOLLOWUP_SENT
+2026-06-13T10:08:08.398539,info@dentown.com.au,Yida,DENTOWN,Investment (multi-region),FOLLOWUP_SENT
+2026-06-13T10:08:11.003758,dean.j@raywhite.com,Dean,Ray White,Eastern Suburbs (Centennial Park),FOLLOWUP_SENT
+2026-06-13T10:08:13.557535,admin@niketi.com.au,Katherine,NIKETI,Multi-region,FOLLOWUP_SENT
+2026-06-13T10:08:16.201343,info@bluewaterproperty.com.au,Manish,Bluewater,Multi-region,FOLLOWUP_SENT
